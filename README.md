@@ -10,8 +10,7 @@ This repository contains a Jupyter Notebook named `DBSCAN on data.ipynb`, which 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
