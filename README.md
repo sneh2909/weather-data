@@ -1,7 +1,5 @@
 # Weather Data Analysis using DBSCAN
 
-![Weather Data Analysis using DBSCAN](https://github.com/sneh2909/weather-data/blob/main/images/weather_dbscan.png)
-
 This repository contains a Jupyter Notebook named `DBSCAN on data.ipynb`, which demonstrates the application of DBSCAN (Density-Based Spatial Clustering of Applications with Noise) on weather data. The goal of this analysis is to utilize unsupervised learning techniques to form clusters based on the density of data points in the weather dataset.
 
 ## Table of Contents
